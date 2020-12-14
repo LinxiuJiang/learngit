@@ -1,2 +1,2 @@
 This is git!
-A version control tool!
+A distributed version control tool!
